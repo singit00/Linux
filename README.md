@@ -1,5 +1,5 @@
 # Installation
-Step 1: Download VirtualBox
+Step 1: Download VirtualBox <br/>
 Step 2: Download ISO file (Ubuntu)
 
 # Virtual machine
