@@ -10,7 +10,7 @@ xxx
 - [Qemu (Hardware simulator)](#Qemu (Hardware simulator))
 - [Building blocks of Embedded linux](#Building-blocks-of-Embedded-linux)
 - [Toolchain](#Toolchain)
-- [Kernel](#Kernel)
+- [Linux Kernel](#Linux-Kernel)
 - [Root filesystem](#Root-filesystem)
 - [Buildroot](#Buildroot)
 - [Yocto](#Yocto)
@@ -38,15 +38,11 @@ sudo apt upgrade <br/>
 ### Building blocks of Embedded linux
 ### Toolchain
 ### Booloader
-### Kernel
+### Linux Kernel
 ### Root filesystem
 ### Buildroot
 ### Yocto
  
-### Homebrew 
-brew install csv2md
-
-
 ### License
  
 This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
