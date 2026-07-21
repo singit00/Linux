@@ -3,10 +3,7 @@ xxx
 
 ### Table of Contents
 - [Requirements](#Requirements)
-- [Installation](#Installation)
-    - Download VirtualBox <br/>
-    - Download ISO file (Ubuntu) <br/>
-    - Create new virtual machine <br/>
+- [Download & Installation](#Installation)
 - [Linux concepts](#Linux-concepts)
 - [Embedded platform](#Embedded-platform)
 - [Communication between host and target board](#Communication_between_host_and_target_board)
@@ -22,7 +19,7 @@ xxx
 ### Requirements
 - very basic knowledge of compiler, C language and microprocessor
 
-### Installation
+### Download & Installation
 Step 1: Download VirtualBox <br/>
 Step 2: Download ISO file (Ubuntu)
 Step 3: Create new virtual machine <br/>
