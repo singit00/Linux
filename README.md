@@ -4,6 +4,9 @@ xxx
 ### Table of Contents
 - [Requirements](#Requirements)
 - [Installation](#Installation)
+    - Download VirtualBox <br/>
+    - Download ISO file (Ubuntu) <br/>
+    - Create new virtual machine <br/>
 - [Linux concepts](#Linux-concepts)
 - [Embedded platform](#Embedded-platform)
 - [Communication between host and target board](#Communication_between_host_and_target_board)
