@@ -1,11 +1,6 @@
 # Project Name
 Convert CSV files to GitHub-flavored Markdown tables in one command.
 
-# Badges
-![Build](https://img.shields.io/github/actions/workflow/status/user/repo/ci.yml)
-![License](https://img.shields.io/github/license/user/repo)
-![npm](https://img.shields.io/npm/v/csv2md)
-
 ### Table of Contents
 - [Requirements](#Requirements)
 - [Installation](#Installation)
