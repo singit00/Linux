@@ -7,11 +7,19 @@ Convert CSV files to GitHub-flavored Markdown tables in one command.
 ![npm](https://img.shields.io/npm/v/csv2md)
 
 ### Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Contributing](#contributing)
-- [License](#license)
+- [Requirements](#Requirements)
+- [Download and Installation](#Download and Installation)
+- [Installing Ubuntu-20.XX](#Installing Ubuntu-20.XX)
+- [Linux concepts](#Linux concepts)
+- [Embedded platform](#Embedded platform)
+- [Communication between host and target board](#Communication between host and target board)
+- [Qemu (Hardware simulator)](#Qemu (Hardware simulator))
+- [Building blocks of Embedded linux](#Building blocks of Embedded linux)
+- [Toolchain](#Toolchain)
+- [Kernel](#Kernel)
+- [Root filesystem](#Root filesystem)
+- [Buildroot](#Buildroot)
+- [Yocto](#Yocto)
 
 
 ### Requirements
@@ -29,7 +37,7 @@ Step 6: Update system's package database <br/>
 sudo apt update <br/>
 sudo apt upgrade <br/>
 
-### Linux concenpts
+### Linux concepts
 ### Embedded platform
 ### Communication between host and target board
 ### Qemu (Hardware simulator)
