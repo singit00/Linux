@@ -22,7 +22,7 @@ xxx
 ### Requirements
 - very basic knowledge of compiler, C language and microprocessor
 
-### Download and Installation
+### Installation
 Step 1: Download VirtualBox <br/>
 Step 2: Download ISO file (Ubuntu)
 Step 3: Create new virtual machine <br/>
