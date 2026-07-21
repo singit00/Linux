@@ -16,7 +16,7 @@ Convert CSV files to GitHub-flavored Markdown tables in one command.
 - [Building blocks of Embedded linux](#Building blocks of Embedded linux)
 - [Toolchain](#Toolchain)
 - [Kernel](#Kernel)
-- [Root Filesystem](#Root_Filesystem)
+- [Root Filesystem](#Root-Filesystem)
 - [Buildroot](#Buildroot)
 - [Yocto](#Yocto)
 
