@@ -9,14 +9,14 @@ Convert CSV files to GitHub-flavored Markdown tables in one command.
 ### Table of Contents
 - [Requirements](#Requirements)
 - [Installation](#Installation)
-- [concepts](#concepts)
-- [Embedded platform](#Embedded)
+- [Linux concepts](#Linux-concepts)
+- [Embedded platform](#Embedded-platform)
 - [Communication between host and target board](#Communication_between_host_and_target_board)
 - [Qemu (Hardware simulator)](#Qemu (Hardware simulator))
-- [Building blocks of Embedded linux](#Building blocks of Embedded linux)
+- [Building blocks of Embedded linux](#Building-blocks-of-Embedded-linux)
 - [Toolchain](#Toolchain)
 - [Kernel](#Kernel)
-- [Root Filesystem](#Root-Filesystem)
+- [Root filesystem](#Root-filesystem)
 - [Buildroot](#Buildroot)
 - [Yocto](#Yocto)
 
